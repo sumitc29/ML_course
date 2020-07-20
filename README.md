@@ -5,5 +5,5 @@ Course is inspired from Jeff Heaton teaching resosurces
 
 ## Syllabus
 * ### Module 1
-  * Sub module 1.1 - Introduction to Pandas, its usage and its utility
+  * Sub_module_1.1 - Introduction to Pandas, its usage and its utility
 
