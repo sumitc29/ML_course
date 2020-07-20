@@ -1,2 +1,9 @@
 # ML_course
-ML course inspired by Jeff Heaton
+Course containing all the basics to advanced topics from scratch for learning ML techniques
+
+Course is inspired from Jeff Heaton teaching resosurces
+
+## Syllabus
+* ### Module 1
+  * Sub module 1.1 - Introduction to Pandas, its usage and its utility
+
